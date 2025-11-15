@@ -1,4 +1,4 @@
-package edu.georgiasouthern.weatherly;
+package edu.georgiasouthern.weatherly.activities;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import edu.georgiasouthern.weatherly.R;
 
 public class MainActivity extends AppCompatActivity {
 
